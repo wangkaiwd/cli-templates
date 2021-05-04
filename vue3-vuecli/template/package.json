@@ -1,6 +1,6 @@
 {
-  "name": "vue3-vuecli",
-  "version": "0.0.0",
+  "name": "<%= projectName %>",
+  "version": "<%= version %>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
